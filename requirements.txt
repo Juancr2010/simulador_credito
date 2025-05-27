@@ -3,6 +3,3 @@ pulp
 pandas
 openpyxl
 xlsxwriter
-
-
-Agregado contenido a requirements.txt
